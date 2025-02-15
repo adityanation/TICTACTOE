@@ -7,7 +7,7 @@ public class tictactoe {
 	public void startgame() {
 		Scanner s=new Scanner(System.in) ;
 		player1=createplayer(1) ;
-		player2=createplayer(2) ;
+		player2=createplayer(2) :
 		
 		while(player1.getsymbol()==player2.getsymbol()) {
 			System.out.println("symbol already taken.Pick another symbol") ;
