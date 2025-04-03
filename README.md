@@ -51,12 +51,12 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking Xs and
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Your Name]. Contributions are welcome!
+Developed by [Aditya Sinha]. Contributions are welcome!
 
 ## Contributions
 Feel free to fork the repository and submit pull requests.
 
 ## Contact
-For questions or suggestions, contact [your email] or open an issue on GitHub.
+For questions or suggestions, contact [adityasinha06841@gmail.com] or open an issue on GitHub.
 
 
